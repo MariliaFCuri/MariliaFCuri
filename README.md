@@ -1,7 +1,7 @@
 <h1>👋 Hello! I'm Marilia Curi </h1>
 <h4>🔹 Data Analyst | Data Scientist  🔹 Passionate about Turning Data into Actionable Insights 🔹 Data Fashion  </h4>
 
-<h6>💻 About Me: With a unique career journey, I transitioned from being a seasoned lawyer with 10 years of experience specializing in Digital Law and LGPD, to diving into the exciting world of data. Fueled by my passion for technology and data-driven solutions, I decided to pursue a degree in Computer Science. This transformation has empowered me to merge my legal expertise with advanced data analytics to offer comprehensive insights and innovative solutions.</h6>
+<h6>💻 About Me: With a unique career journey, I transitioned from being a seasoned lawyer with 10 years of experience specializing in Digital Law and LGPD (brazilian data protection law), to diving into the exciting world of data. Fueled by my passion for technology and data-driven solutions, I decided to pursue a degree in Computer Science. This transformation has empowered me to merge my legal expertise with advanced data analytics to offer comprehensive insights and innovative solutions.</h6>
 
 <h6>🎯 Goals and Values: I believe in the power of data to inform and drive strategic decisions. My goal is to continuously improve my analytical skills, stay current with industry trends, and contribute to projects that have a meaningful impact on businesses and society. </h6>
 
